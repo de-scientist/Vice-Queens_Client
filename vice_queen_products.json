@@ -1,0 +1,798 @@
+[
+  {
+    "id": 1,
+    "product_name": "V.Q Virgin Small White Tissues",
+    "sku": "VQ-001",
+    "moq": 100,
+    "price_ksh": 50,
+    "price_usd": 0.42
+  },
+  {
+    "id": 2,
+    "product_name": "V.Q Blended White Small Tissues",
+    "sku": "VQ-002",
+    "moq": 100,
+    "price_ksh": 55,
+    "price_usd": 0.46
+  },
+  {
+    "id": 3,
+    "product_name": "V.Q Blended Small Pink Tissues",
+    "sku": "VQ-003",
+    "moq": 100,
+    "price_ksh": 60,
+    "price_usd": 0.5
+  },
+  {
+    "id": 4,
+    "product_name": "V.Q Virgin White Serviettes",
+    "sku": "VQ-004",
+    "moq": 100,
+    "price_ksh": 65,
+    "price_usd": 0.54
+  },
+  {
+    "id": 5,
+    "product_name": "V.Q Hand Towels",
+    "sku": "VQ-005",
+    "moq": 100,
+    "price_ksh": 70,
+    "price_usd": 0.58
+  },
+  {
+    "id": 6,
+    "product_name": "V.Q Recycled Small Tissues",
+    "sku": "VQ-006",
+    "moq": 100,
+    "price_ksh": 75,
+    "price_usd": 0.62
+  },
+  {
+    "id": 7,
+    "product_name": "V.Q Virgin White Jumbo Tissue",
+    "sku": "VQ-007",
+    "moq": 100,
+    "price_ksh": 80,
+    "price_usd": 0.67
+  },
+  {
+    "id": 8,
+    "product_name": "V.Q Blended White Jumbo Tissue",
+    "sku": "VQ-008",
+    "moq": 100,
+    "price_ksh": 85,
+    "price_usd": 0.71
+  },
+  {
+    "id": 9,
+    "product_name": "V.Q Kitchen Towels",
+    "sku": "VQ-009",
+    "moq": 100,
+    "price_ksh": 90,
+    "price_usd": 0.75
+  },
+  {
+    "id": 10,
+    "product_name": "V.Q Wet Wipes",
+    "sku": "VQ-010",
+    "moq": 100,
+    "price_ksh": 95,
+    "price_usd": 0.79
+  },
+  {
+    "id": 11,
+    "product_name": "V.Q Blended Pink Jumbo Tissue",
+    "sku": "VQ-011",
+    "moq": 100,
+    "price_ksh": 100,
+    "price_usd": 0.83
+  },
+  {
+    "id": 12,
+    "product_name": "V.Q Recycled Jumbo Tissue",
+    "sku": "VQ-012",
+    "moq": 100,
+    "price_ksh": 105,
+    "price_usd": 0.88
+  },
+  {
+    "id": 13,
+    "product_name": "V.Q Virgin White Mega Jumbo Tissue",
+    "sku": "VQ-013",
+    "moq": 100,
+    "price_ksh": 110,
+    "price_usd": 0.92
+  },
+  {
+    "id": 14,
+    "product_name": "V.Q Blended Mega Jumbo Tissue",
+    "sku": "VQ-014",
+    "moq": 100,
+    "price_ksh": 115,
+    "price_usd": 0.96
+  },
+  {
+    "id": 15,
+    "product_name": "V.Q Facial Towels",
+    "sku": "VQ-015",
+    "moq": 100,
+    "price_ksh": 120,
+    "price_usd": 1.0
+  },
+  {
+    "id": 16,
+    "product_name": "V.Q Cotton Buds",
+    "sku": "VQ-016",
+    "moq": 100,
+    "price_ksh": 125,
+    "price_usd": 1.04
+  },
+  {
+    "id": 17,
+    "product_name": "V.Q Premium Body Diapers",
+    "sku": "VQ-017",
+    "moq": 100,
+    "price_ksh": 130,
+    "price_usd": 1.08
+  },
+  {
+    "id": 18,
+    "product_name": "V.Q Premium Sanitary Towels",
+    "sku": "VQ-018",
+    "moq": 100,
+    "price_ksh": 135,
+    "price_usd": 1.12
+  },
+  {
+    "id": 19,
+    "product_name": "V.Q Premium Materials Pads",
+    "sku": "VQ-019",
+    "moq": 100,
+    "price_ksh": 140,
+    "price_usd": 1.17
+  },
+  {
+    "id": 20,
+    "product_name": "V.Q Condom Pineapple",
+    "sku": "VQ-020",
+    "moq": 100,
+    "price_ksh": 145,
+    "price_usd": 1.21
+  },
+  {
+    "id": 21,
+    "product_name": "V.Q Premium Adult Diapers",
+    "sku": "VQ-021",
+    "moq": 100,
+    "price_ksh": 150,
+    "price_usd": 1.25
+  },
+  {
+    "id": 22,
+    "product_name": "V.Q Baby Diapers",
+    "sku": "VQ-022",
+    "moq": 100,
+    "price_ksh": 155,
+    "price_usd": 1.29
+  },
+  {
+    "id": 23,
+    "product_name": "V.Q Sanitary Towels",
+    "sku": "VQ-023",
+    "moq": 100,
+    "price_ksh": 160,
+    "price_usd": 1.33
+  },
+  {
+    "id": 24,
+    "product_name": "V.Q Maternal Pads",
+    "sku": "VQ-024",
+    "moq": 100,
+    "price_ksh": 165,
+    "price_usd": 1.38
+  },
+  {
+    "id": 25,
+    "product_name": "V.Q Condom Mint",
+    "sku": "VQ-025",
+    "moq": 100,
+    "price_ksh": 170,
+    "price_usd": 1.42
+  },
+  {
+    "id": 26,
+    "product_name": "V.Q Adult Diapers",
+    "sku": "VQ-026",
+    "moq": 100,
+    "price_ksh": 175,
+    "price_usd": 1.46
+  },
+  {
+    "id": 27,
+    "product_name": "V.Q Liners",
+    "sku": "VQ-027",
+    "moq": 100,
+    "price_ksh": 180,
+    "price_usd": 1.5
+  },
+  {
+    "id": 28,
+    "product_name": "V.Q Condoms Original",
+    "sku": "VQ-028",
+    "moq": 100,
+    "price_ksh": 185,
+    "price_usd": 1.54
+  },
+  {
+    "id": 29,
+    "product_name": "V.Q Condom Strawberry",
+    "sku": "VQ-029",
+    "moq": 100,
+    "price_ksh": 190,
+    "price_usd": 1.58
+  },
+  {
+    "id": 30,
+    "product_name": "V.Q Condom Blue Berry",
+    "sku": "VQ-030",
+    "moq": 100,
+    "price_ksh": 195,
+    "price_usd": 1.62
+  },
+  {
+    "id": 31,
+    "product_name": "V.Q Cling Film",
+    "sku": "VQ-031",
+    "moq": 100,
+    "price_ksh": 200,
+    "price_usd": 1.67
+  },
+  {
+    "id": 32,
+    "product_name": "V.Q Paper Foil",
+    "sku": "VQ-032",
+    "moq": 100,
+    "price_ksh": 205,
+    "price_usd": 1.71
+  },
+  {
+    "id": 33,
+    "product_name": "V.Q Super Bright",
+    "sku": "VQ-033",
+    "moq": 100,
+    "price_ksh": 210,
+    "price_usd": 1.75
+  },
+  {
+    "id": 34,
+    "product_name": "V.Q Disinfectant (Anti-Septic)",
+    "sku": "VQ-034",
+    "moq": 100,
+    "price_ksh": 215,
+    "price_usd": 1.79
+  },
+  {
+    "id": 35,
+    "product_name": "V.Q Disinfectant",
+    "sku": "VQ-035",
+    "moq": 100,
+    "price_ksh": 220,
+    "price_usd": 1.83
+  },
+  {
+    "id": 36,
+    "product_name": "V.Q Dish Paste Soap",
+    "sku": "VQ-036",
+    "moq": 100,
+    "price_ksh": 225,
+    "price_usd": 1.88
+  },
+  {
+    "id": 37,
+    "product_name": "V.Q Dish Liquid Soap",
+    "sku": "VQ-037",
+    "moq": 100,
+    "price_ksh": 230,
+    "price_usd": 1.92
+  },
+  {
+    "id": 38,
+    "product_name": "V.Q Hand Soap",
+    "sku": "VQ-038",
+    "moq": 100,
+    "price_ksh": 235,
+    "price_usd": 1.96
+  },
+  {
+    "id": 39,
+    "product_name": "V.Q Hand Sanitizer",
+    "sku": "VQ-039",
+    "moq": 100,
+    "price_ksh": 240,
+    "price_usd": 2.0
+  },
+  {
+    "id": 40,
+    "product_name": "V.Q Spray Sanitizer",
+    "sku": "VQ-040",
+    "moq": 100,
+    "price_ksh": 245,
+    "price_usd": 2.04
+  },
+  {
+    "id": 41,
+    "product_name": "V.Q Shampoo",
+    "sku": "VQ-041",
+    "moq": 100,
+    "price_ksh": 250,
+    "price_usd": 2.08
+  },
+  {
+    "id": 42,
+    "product_name": "V.Q Conditioner",
+    "sku": "VQ-042",
+    "moq": 100,
+    "price_ksh": 255,
+    "price_usd": 2.12
+  },
+  {
+    "id": 43,
+    "product_name": "V.Q Shower Gel",
+    "sku": "VQ-043",
+    "moq": 100,
+    "price_ksh": 260,
+    "price_usd": 2.17
+  },
+  {
+    "id": 44,
+    "product_name": "V.Q Anti-Dandruff",
+    "sku": "VQ-044",
+    "moq": 100,
+    "price_ksh": 265,
+    "price_usd": 2.21
+  },
+  {
+    "id": 45,
+    "product_name": "V.Q Toilet Cleaners",
+    "sku": "VQ-045",
+    "moq": 100,
+    "price_ksh": 270,
+    "price_usd": 2.25
+  },
+  {
+    "id": 46,
+    "product_name": "V.Q Bathing Soap Bar Soap",
+    "sku": "VQ-046",
+    "moq": 100,
+    "price_ksh": 275,
+    "price_usd": 2.29
+  },
+  {
+    "id": 47,
+    "product_name": "V.Q Powder Soap",
+    "sku": "VQ-047",
+    "moq": 100,
+    "price_ksh": 280,
+    "price_usd": 2.33
+  },
+  {
+    "id": 48,
+    "product_name": "V.Q Body Lotion",
+    "sku": "VQ-048",
+    "moq": 100,
+    "price_ksh": 285,
+    "price_usd": 2.38
+  },
+  {
+    "id": 49,
+    "product_name": "V.Q Sunscreen",
+    "sku": "VQ-049",
+    "moq": 100,
+    "price_ksh": 290,
+    "price_usd": 2.42
+  },
+  {
+    "id": 50,
+    "product_name": "V.Q Body Oil",
+    "sku": "VQ-050",
+    "moq": 100,
+    "price_ksh": 295,
+    "price_usd": 2.46
+  },
+  {
+    "id": 51,
+    "product_name": "V.Q Shoe Polish",
+    "sku": "VQ-051",
+    "moq": 100,
+    "price_ksh": 300,
+    "price_usd": 2.5
+  },
+  {
+    "id": 52,
+    "product_name": "V.Q Freshener",
+    "sku": "VQ-052",
+    "moq": 100,
+    "price_ksh": 305,
+    "price_usd": 2.54
+  },
+  {
+    "id": 53,
+    "product_name": "V.Q Body Spray",
+    "sku": "VQ-053",
+    "moq": 100,
+    "price_ksh": 310,
+    "price_usd": 2.58
+  },
+  {
+    "id": 54,
+    "product_name": "V.Q Glycerin",
+    "sku": "VQ-054",
+    "moq": 100,
+    "price_ksh": 315,
+    "price_usd": 2.62
+  },
+  {
+    "id": 55,
+    "product_name": "V.Q Surgical Spirit",
+    "sku": "VQ-055",
+    "moq": 100,
+    "price_ksh": 320,
+    "price_usd": 2.67
+  },
+  {
+    "id": 56,
+    "product_name": "V.Q Methylated Spirit",
+    "sku": "VQ-056",
+    "moq": 100,
+    "price_ksh": 325,
+    "price_usd": 2.71
+  },
+  {
+    "id": 57,
+    "product_name": "V.Q Fabric Softener",
+    "sku": "VQ-057",
+    "moq": 100,
+    "price_ksh": 330,
+    "price_usd": 2.75
+  },
+  {
+    "id": 58,
+    "product_name": "V.Q Bleaching Agent",
+    "sku": "VQ-058",
+    "moq": 100,
+    "price_ksh": 335,
+    "price_usd": 2.79
+  },
+  {
+    "id": 59,
+    "product_name": "V.Q Powder Toilet Cleaner",
+    "sku": "VQ-059",
+    "moq": 100,
+    "price_ksh": 340,
+    "price_usd": 2.83
+  },
+  {
+    "id": 60,
+    "product_name": "V.Q Insecticide",
+    "sku": "VQ-060",
+    "moq": 100,
+    "price_ksh": 345,
+    "price_usd": 2.88
+  },
+  {
+    "id": 61,
+    "product_name": "V.Q Car Liquid Soap",
+    "sku": "VQ-061",
+    "moq": 100,
+    "price_ksh": 350,
+    "price_usd": 2.92
+  },
+  {
+    "id": 62,
+    "product_name": "V.C Car Paints",
+    "sku": "VQ-062",
+    "moq": 100,
+    "price_ksh": 355,
+    "price_usd": 2.96
+  },
+  {
+    "id": 63,
+    "product_name": "V.C Wood Glue",
+    "images": [
+      "https://img.freepik.com/premium-photo/close-up-high-angle-view-cake_1048944-23805149.jpg?ga=GA1.1.786348031.1736697841&semt=ais_hybrid",
+      "https://img.freepik.com/premium-photo/putting-mustard-wooden-board_1048944-24635007.jpg?ga=GA1.1.786348031.1736697841&semt=ais_hybrid"
+    ],
+    "sku": "VQ-063",
+    "moq": 100,
+    "price_ksh": 360,
+    "price_usd": 3.0
+  },
+  {
+    "id": 64,
+    "product_name": "V.C Body Filler",
+    "sku": "VQ-064",
+    "moq": 100,
+    "price_ksh": 365,
+    "price_usd": 3.04
+  },
+  {
+    "id": 65,
+    "product_name": "V.C Buffer",
+    "sku": "VQ-065",
+    "moq": 100,
+    "price_ksh": 370,
+    "price_usd": 3.08
+  },
+  {
+    "id": 66,
+    "product_name": "V.C Vinyl Silk",
+    "sku": "VQ-066",
+    "moq": 100,
+    "price_ksh": 375,
+    "price_usd": 3.12
+  },
+  {
+    "id": 67,
+    "product_name": "V.C Deluxe",
+    "sku": "VQ-067",
+    "moq": 100,
+    "price_ksh": 380,
+    "price_usd": 3.17
+  },
+  {
+    "id": 68,
+    "product_name": "V.C Realroc",
+    "sku": "VQ-068",
+    "moq": 100,
+    "price_ksh": 385,
+    "price_usd": 3.21
+  },
+  {
+    "id": 69,
+    "product_name": "V.C Silicon",
+    "sku": "VQ-069",
+    "moq": 100,
+    "price_ksh": 390,
+    "price_usd": 3.25
+  },
+  {
+    "id": 70,
+    "product_name": "V.C Super Gloss",
+    "sku": "VQ-070",
+    "moq": 100,
+    "price_ksh": 395,
+    "price_usd": 3.29
+  },
+  {
+    "id": 71,
+    "product_name": "V.Q Face Mask",
+    "sku": "VQ-071",
+    "moq": 100,
+    "price_ksh": 400,
+    "price_usd": 3.33
+  },
+  {
+    "id": 72,
+    "product_name": "V.Q T-Shirt Bags",
+    "sku": "VQ-072",
+    "moq": 100,
+    "price_ksh": 405,
+    "price_usd": 3.38
+  },
+  {
+    "id": 73,
+    "product_name": "V.Q D-Shaped Bags",
+    "sku": "VQ-073",
+    "moq": 100,
+    "price_ksh": 410,
+    "price_usd": 3.42
+  },
+  {
+    "id": 74,
+    "product_name": "V.Q Khakhi Bags",
+    "sku": "VQ-074",
+    "moq": 100,
+    "price_ksh": 415,
+    "price_usd": 3.46
+  },
+  {
+    "id": 75,
+    "product_name": "V.Q Flour Balers",
+    "sku": "VQ-075",
+    "moq": 100,
+    "price_ksh": 420,
+    "price_usd": 3.5
+  },
+  {
+    "id": 76,
+    "product_name": "V.Q Gunias",
+    "sku": "VQ-076",
+    "moq": 100,
+    "price_ksh": 425,
+    "price_usd": 3.54
+  },
+  {
+    "id": 77,
+    "product_name": "V.Q Ex-Books",
+    "sku": "VQ-077",
+    "moq": 100,
+    "price_ksh": 430,
+    "price_usd": 3.58
+  },
+  {
+    "id": 78,
+    "product_name": "V.Q Stickers",
+    "sku": "VQ-078",
+    "moq": 100,
+    "price_ksh": 435,
+    "price_usd": 3.62
+  },
+  {
+    "id": 79,
+    "product_name": "V.Q Envelops",
+    "sku": "VQ-079",
+    "moq": 100,
+    "price_ksh": 440,
+    "price_usd": 3.67
+  },
+  {
+    "id": 80,
+    "product_name": "V.Q Mattress",
+    "sku": "VQ-080",
+    "moq": 100,
+    "price_ksh": 445,
+    "price_usd": 3.71
+  },
+  {
+    "id": 81,
+    "product_name": "V.Q Sponge",
+    "sku": "VQ-081",
+    "moq": 100,
+    "price_ksh": 450,
+    "price_usd": 3.75
+  },
+  {
+    "id": 82,
+    "product_name": "V.Q Dye Cuts",
+    "sku": "VQ-082",
+    "moq": 100,
+    "price_ksh": 455,
+    "price_usd": 3.79
+  },
+  {
+    "id": 83,
+    "product_name": "V.Q Box Profile Mabati",
+    "sku": "VQ-083",
+    "moq": 100,
+    "price_ksh": 460,
+    "price_usd": 3.83
+  },
+  {
+    "id": 84,
+    "product_name": "V.Q Tile Mabati",
+    "sku": "VQ-084",
+    "moq": 100,
+    "price_ksh": 465,
+    "price_usd": 3.88
+  },
+  {
+    "id": 85,
+    "product_name": "V.Q Corrugated Mabati",
+    "sku": "VQ-085",
+    "moq": 100,
+    "price_ksh": 470,
+    "price_usd": 3.92
+  },
+  {
+    "id": 86,
+    "product_name": "V.Q Box Nail",
+    "sku": "VQ-086",
+    "moq": 100,
+    "price_ksh": 475,
+    "price_usd": 3.96
+  },
+  {
+    "id": 87,
+    "product_name": "V.Q Common Nail",
+    "sku": "VQ-087",
+    "moq": 100,
+    "price_ksh": 480,
+    "price_usd": 4.0
+  },
+  {
+    "id": 88,
+    "product_name": "V.Q Duplex Nail",
+    "sku": "VQ-088",
+    "moq": 100,
+    "price_ksh": 485,
+    "price_usd": 4.04
+  },
+  {
+    "id": 89,
+    "product_name": "Uniforms",
+    "sku": "VQ-089",
+    "moq": 100,
+    "price_ksh": 490,
+    "price_usd": 4.08
+  },
+  {
+    "id": 90,
+    "product_name": "Vehicles",
+    "sku": "VQ-090",
+    "moq": 100,
+    "price_ksh": 495,
+    "price_usd": 4.12
+  },
+  {
+    "id": 91,
+    "product_name": "Lightbox",
+    "sku": "VQ-091",
+    "moq": 100,
+    "price_ksh": 500,
+    "price_usd": 4.17
+  },
+  {
+    "id": 92,
+    "product_name": "Flyers",
+    "sku": "VQ-092",
+    "moq": 100,
+    "price_ksh": 505,
+    "price_usd": 4.21
+  },
+  {
+    "id": 93,
+    "product_name": "Banners",
+    "sku": "VQ-093",
+    "moq": 100,
+    "price_ksh": 510,
+    "price_usd": 4.25
+  },
+  {
+    "id": 94,
+    "product_name": "Business Cards",
+    "sku": "VQ-094",
+    "moq": 100,
+    "price_ksh": 515,
+    "price_usd": 4.29
+  },
+  {
+    "id": 95,
+    "product_name": "Website Creation",
+    "sku": "VQ-095",
+    "moq": 100,
+    "price_ksh": 520,
+    "price_usd": 4.33
+  },
+  {
+    "id": 96,
+    "product_name": "Mobile Application",
+    "sku": "VQ-096",
+    "moq": 100,
+    "price_ksh": 525,
+    "price_usd": 4.38
+  },
+  {
+    "id": 97,
+    "product_name": "Business Plan Loan Proposal",
+    "sku": "VQ-097",
+    "moq": 100,
+    "price_ksh": 530,
+    "price_usd": 4.42
+  },
+  {
+    "id": 98,
+    "product_name": "Sale System",
+    "sku": "VQ-098",
+    "moq": 100,
+    "price_ksh": 535,
+    "price_usd": 4.46
+  },
+  {
+    "id": 99,
+    "product_name": "Software Installation",
+    "sku": "VQ-099",
+    "moq": 100,
+    "price_ksh": 540,
+    "price_usd": 4.5
+  }
+]

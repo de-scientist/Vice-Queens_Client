@@ -1,0 +1,160 @@
+[
+  {
+    "id": "1",
+    "name": "V.Q Virgin Small White Tissues",
+    "description": "High-quality small white tissues for everyday use.",
+    "currentPrice": 50,
+    "previousPrice": 55,
+    "category": "Tissues",
+    "stock": 100,
+    "images": ["https://example.com/images/vq-virgin-small-white-tissues.jpg"],
+    "reviews": [
+      {
+        "id": "r1",
+        "starRating": 4.5,
+        "reviewMessage": "Soft and durable tissues!",
+        "reviewMedia": "https://example.com/reviews/r1-image.jpg",
+        "createdAt": "2025-01-01"
+      }
+    ],
+    "variants": {
+      "variantName": "Size",
+      "variations": ["Small", "Medium", "Large"]
+    }
+  },
+  {
+    "id": "2",
+    "name": "V.Q Blended White Small Tissues",
+    "description": "Blended white tissues for all-purpose use.",
+    "currentPrice": 55,
+    "previousPrice": 60,
+    "category": "Tissues",
+    "stock": 100,
+    "images": ["https://example.com/images/vq-blended-white-small-tissues.jpg"],
+    "reviews": [],
+    "variants": {
+      "variantName": "Size",
+      "variations": ["Small", "Medium"]
+    }
+  },
+  {
+    "id": "3",
+    "name": "V.Q Blended Small Pink Tissues",
+    "description": "Soft pink tissues perfect for special occasions.",
+    "currentPrice": 60,
+    "previousPrice": 65,
+    "category": "tissues",
+    "stock": 100,
+    "images": ["https://example.com/images/vq-blended-small-pink-tissues.jpg"],
+    "reviews": [],
+    "variants": {
+      "variantName": "Color",
+      "variations": ["Pink"]
+    }
+  },
+  {
+    "id": "4",
+    "name": "V.Q Virgin White Serviettes",
+    "description": "Premium virgin white serviettes.",
+    "currentPrice": 65,
+    "previousPrice": 70,
+    "category": "Serviettes",
+    "stock": 100,
+    "images": ["https://example.com/images/vq-virgin-white-serviettes.jpg"],
+    "reviews": [],
+    "variants": {
+      "variantName": "Pack Size",
+      "variations": ["50 Sheets", "100 Sheets"]
+    }
+  },
+  {
+    "id": "5",
+    "name": "V.Q Hand Towels",
+    "description": "High-absorbency hand towels.",
+    "currentPrice": 70,
+    "previousPrice": 75,
+    "category": "Towels",
+    "stock": 100,
+    "images": ["https://example.com/images/vq-hand-towels.jpg"],
+    "reviews": [],
+    "variants": {
+      "variantName": "Size",
+      "variations": ["Standard", "Large"]
+    }
+  },
+  {
+    "id": "6",
+    "name": "V.Q Recycled Small Tissues",
+    "description": "Eco-friendly recycled tissues.",
+    "currentPrice": 75,
+    "previousPrice": 80,
+    "category": "Tissues",
+    "stock": 100,
+    "images": ["https://example.com/images/vq-recycled-small-tissues.jpg"],
+    "reviews": [],
+    "variants": {
+      "variantName": "Material",
+      "variations": ["Recycled"]
+    }
+  },
+  {
+    "id": "7",
+    "name": "V.Q Virgin White Jumbo Tissue",
+    "description": "Large jumbo tissue rolls for bulk use.",
+    "currentPrice": 80,
+    "previousPrice": 85,
+    "category": "Tissues",
+    "stock": 100,
+    "images": ["https://example.com/images/vq-virgin-white-jumbo-tissue.jpg"],
+    "reviews": [],
+    "variants": {
+      "variantName": "Size",
+      "variations": ["Jumbo"]
+    }
+  },
+  {
+    "id": "8",
+    "name": "V.Q Blended White Jumbo Tissue",
+    "description": "Blended jumbo tissue rolls for multipurpose use.",
+    "currentPrice": 85,
+    "previousPrice": 90,
+    "category": "Tissues",
+    "stock": 100,
+    "images": ["https://example.com/images/vq-blended-white-jumbo-tissue.jpg"],
+    "reviews": [],
+    "variants": {
+      "variantName": "Size",
+      "variations": ["Jumbo"]
+    }
+  },
+  {
+    "id": "9",
+    "name": "V.Q Kitchen Towels",
+    "description": "Durable kitchen towels for everyday cooking needs.",
+    "currentPrice": 90,
+    "previousPrice": 95,
+    "category": "Towels",
+    "stock": 100,
+    "images": ["https://example.com/images/vq-kitchen-towels.jpg"],
+    "reviews": [],
+    "variants": {
+      "variantName": "Size",
+      "variations": ["Standard", "Large"]
+    }
+  },
+  {
+    "id": "10",
+    "name": "V.Q Wet Wipes",
+    "description": "Moisturized wet wipes for hygiene on the go.",
+    "currentPrice": 95,
+    "previousPrice": 100,
+    "category": "Wipes",
+    "stock": 100,
+    "images": ["https://example.com/images/vq-wet-wipes.jpg"],
+    "reviews": [],
+    "variants": {
+      "variantName": "Pack Size",
+      "variations": ["Travel", "Family"]
+    }
+  }
+]
