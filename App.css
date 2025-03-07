@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html,
+body {
+  overflow-x: hidden;
+}
+
+.lazy-image-wrapper img {
+  transition: opacity 0.3s ease-in-out;
+}
